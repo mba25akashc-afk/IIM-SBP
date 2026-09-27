@@ -1,0 +1,6 @@
+{
+  "name": "SkillSutra - Train the Mind Behind the Marks",
+  "description": "India's skill-gym for exam aspirants. Train speed, memory, focus, reasoning, and study productivity alongside curated D2C gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
